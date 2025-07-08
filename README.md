@@ -1,4 +1,4 @@
-# Fraud Detection Models
+# Fraud Detection 
 
 This project focuses on developing and evaluating fraud detection models using three real-world datasets: credit card fraud, insurance fraud, and financial fraud detection.
 
