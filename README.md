@@ -39,9 +39,10 @@ The goal is to identify fraudulent activities using machine learning classificat
 
 ## Notebooks
 
-- [Part 1 – Credit Card Fraud Detection](https://colab.research.google.com/drive/1SNhhyTDyLot24UEhO0uVYM5TBBCvspY3?usp=sharing)
-- [Part 2 – Insurance Fraud Detection](https://colab.research.google.com/drive/1gTGHS-Qrt4ztMNOU8V05ZhF0lC_7DMf7?usp=sharing)
-- [Part 3 – Financial Fraud Detection](https://colab.research.google.com/drive/1_hk3heauxqKlwwgJN4ghDa7_i2Sf2DDQ?usp=sharing)
+- [Part 1 – Credit Card Fraud Detection](https://colab.research.google.com/drive/1gTGHS-Qrt4ztMNOU8V05ZhF0lC_7DMf7?usp=sharing)
+- [Part 2 – Insurance Fraud Detection](https://colab.research.google.com/drive/1_hk3heauxqKlwwgJN4ghDa7_i2Sf2DDQ?usp=sharing)
+- [Part 3 – Financial Fraud Detection](https://colab.research.google.com/drive/1SNhhyTDyLot24UEhO0uVYM5TBBCvspY3?usp=sharing)
+
 
 ---
 
